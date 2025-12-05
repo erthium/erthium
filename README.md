@@ -10,17 +10,17 @@ I design, code & create.
 
 I use anything, but the last 2 years was mostly:
 
-**_Languages:_** Python - CPP - TypeScript - Java
+**_Languages:_** `Python` - `C++` - `TypeScript` - `Java`
 
-**_Backend:_** FastAPI - Spring Boot - NestJS
+**_Backend:_** `FastAPI` - `Spring Boot` - `NestJS`
 
-**_Database:_** PostgreSQL - MongoDB - Firebase
+**_Database:_** `PostgreSQL` - `MongoDB` - `Firebase`
 
-**_Frontend:_** React - TailwindCSS
+**_Frontend:_** `React` - `TailwindCSS`
 
-**_Cloud Provider:_** I do not like Azure, the rest is fine
+**_Cloud Provider:_** `I do not like Azure, the rest is fine`
 
-**_DevOps:_** I understand what the devops guy does and often give suggestions
+**_DevOps:_** `I understand what the devops guy does and often give suggestions`
 
 And some other software
 
