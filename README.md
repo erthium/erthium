@@ -1,30 +1,30 @@
 Hello there 🖖
 
-#### About
+### About
 
 Self-taught programmer since 2017. Creating human-centric digital products.
 
 I design, code & create.
 
-#### Tech
+### Tech
 
 I use anything, but the last 2 years was mostly:
 
-**Languages:** Python - CPP - TypeScript - Java
+**_Languages:_** Python - CPP - TypeScript - Java
 
-**Backend:** FastAPI - Spring Boot - NestJS
+**_Backend:_** FastAPI - Spring Boot - NestJS
 
-**Database:** PostgreSQL - MongoDB - Firebase
+**_Database:_** PostgreSQL - MongoDB - Firebase
 
-**Frontend:** React - TailwindCSS
+**_Frontend:_** React - TailwindCSS
 
-**Cloud Provider:** I do not like Azure, the rest is fine
+**_Cloud Provider:_** I do not like Azure, the rest is fine
 
-**DevOps:** I understand what the devops guy does and often give suggestions
+**_DevOps:_** I understand what the devops guy does and often give suggestions
 
 And some other software
 
-#### By The Way
+### By The Way
 
 Currently using Arch EndeavourOS with Hyprland
 
