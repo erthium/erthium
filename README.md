@@ -1,17 +1,26 @@
-### Hello There 🖖
+Hello there 🖖
 
+#### About
 
-<!--
-**ErtyumPX/ErtyumPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught programmer since 2017. Creating human-centric digital products.
 
-Here are some ideas to get you started:
+I design, code & create.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech
+
+I use anything, but the last 2 years was mostly:
+
+**Languages:** Python - CPP - TypeScript - Java
+**Backend:** FastAPI - Spring Boot - NestJS
+**Database:** PostgreSQL - MongoDB - Firebase
+**Frontend:** React - TailwindCSS
+**Cloud Provider:** I do not like Azure, the rest is fine
+**DevOps:** I understand what the devops guy does and often give suggestions
+
+And some other software
+
+#### By The Way
+
+Currently using Arch EndeavourOS with Hyprland
+
+Looking for excuses to use Rust
