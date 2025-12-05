@@ -11,10 +11,15 @@ I design, code & create.
 I use anything, but the last 2 years was mostly:
 
 **Languages:** Python - CPP - TypeScript - Java
+
 **Backend:** FastAPI - Spring Boot - NestJS
+
 **Database:** PostgreSQL - MongoDB - Firebase
+
 **Frontend:** React - TailwindCSS
+
 **Cloud Provider:** I do not like Azure, the rest is fine
+
 **DevOps:** I understand what the devops guy does and often give suggestions
 
 And some other software
